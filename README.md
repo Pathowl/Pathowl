@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Hi! My Name is Patryk Podlewski. In the moment focused on improving my Java and Spring Boot skills. <br>
+🌱 Hi! My Name is Patryk Podlewski. In the moment focused on improving my Java and Spring Boot skills. <br>
 🔭 I’m currently working on getting my Engineer's degree in Information and Technology.<br>👯 Looking for oportunities to progress with my career.<br>🚗 Fun fact1: My dream car is definetly Nissan R34 GTR.<br>⚡ Fun fact2 : I spend almost 10 hours listening to music every day.<br>
 
 

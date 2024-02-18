@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-podlewski-ab142b224/) 
-[![pycharm](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dalescott.net%2Fblog%2F&psig=AOvVaw0EXiYFnK6s-lM-PTkFoSPA&ust=1708386975049000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDiwseLtoQDFQAAAAAdAAAAABAE)
+[![pycharm]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dalescott.net%2Fblog%2F&psig=AOvVaw0EXiYFnK6s-lM-PTkFoSPA&ust=1708386975049000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDiwseLtoQDFQAAAAAdAAAAABAE](https://www.dalescott.net/wp-content/uploads/2024/01/pycharm-logo.png))
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 

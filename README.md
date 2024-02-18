@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 Hi! My Name is Patryk Podlewski. In the moment focused on improving my Python. <br>
-🔭 I’m currently working on getting my Engineer's degree in Information and Technology.<br>👯 Looking for oportunities to progress with my career.<br>🚗 Fun fact1: My dream car is definetly Nissan R34 GTR.<br>⚡ Fun fact2 : I spend almost 10 hours listening to music every day.<br>
+🔭 I’m a 4th year Information and Technology student, at the edge of finishing my Bachelor of Engineering (BEng) degree.<br>👯 Looking for oportunities to improve my programming skills and widen my field of knowledge.<br>🚗 Fun fact1: My dream car is definetly Nissan R34 GTR.<br>⚡ Fun fact2 : I spend almost 10 hours listening to music every day.<br>
 
 
 ## 🌐 Socials:
